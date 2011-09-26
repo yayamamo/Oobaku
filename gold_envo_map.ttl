@@ -1,0 +1,196 @@
+@prefix rdfs: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+<http://purl.org/gold/habitat#GHT_0001> rdfs:label "Acid mine"@en .
+<http://purl.org/gold/habitat#GHT_0002> rdfs:label "Acid mine drainage"@en .
+<http://purl.org/gold/habitat#GHT_0003> rdfs:label "Air"@en .
+<http://purl.org/gold/habitat#GHT_0004> rdfs:label "Animal feces"@en .
+<http://purl.org/gold/habitat#GHT_0005> rdfs:label "Animal intestinal microflora"@en .
+<http://purl.org/gold/habitat#GHT_0006> rdfs:label "Antarctic"@en .
+<http://purl.org/gold/habitat#GHT_0008> rdfs:label "Beer"@en .
+<http://purl.org/gold/habitat#GHT_0009> rdfs:label "Biofilm"@en .
+<http://purl.org/gold/habitat#GHT_0010> rdfs:label "Birds intestinal microflora"@en .
+<http://purl.org/gold/habitat#GHT_0011> rdfs:label "Blood"@en .
+<http://purl.org/gold/habitat#GHT_0012> rdfs:label "Bovine rumen"@en .
+<http://purl.org/gold/habitat#GHT_0014> rdfs:label "Colon"@en .
+<http://purl.org/gold/habitat#GHT_0015> rdfs:label "Cow rumen"@en .
+<http://purl.org/gold/habitat#GHT_0016> rdfs:label "Creosote-contaminated soil"@en .
+<http://purl.org/gold/habitat#GHT_0018> rdfs:label "Dairy isolate"@en .
+<http://purl.org/gold/habitat#GHT_0019> rdfs:label "Deep sea"@en .
+<http://purl.org/gold/habitat#GHT_0021> rdfs:label "Ectomycorrhizal"@en .
+<http://purl.org/gold/habitat#GHT_0022> rdfs:label "Endophyte"@en .
+<http://purl.org/gold/habitat#GHT_0023> rdfs:label "Endosymbiont"@en .
+<http://purl.org/gold/habitat#GHT_0024> rdfs:label "Feces"@en .
+<http://purl.org/gold/habitat#GHT_0025> rdfs:label "Fish"@en .
+<http://purl.org/gold/habitat#GHT_0026> rdfs:label "Food"@en .
+<http://purl.org/gold/habitat#GHT_0027> rdfs:label "Fresh meat"@en .
+<http://purl.org/gold/habitat#GHT_0028> rdfs:label "Fresh water"@en .
+<http://purl.org/gold/habitat#GHT_0029> rdfs:label "Fruits"@en .
+<http://purl.org/gold/habitat#GHT_0030> rdfs:label "Gastrointestinal tract"@en .
+<http://purl.org/gold/habitat#GHT_0031> rdfs:label "Gingival crevices"@en .
+<http://purl.org/gold/habitat#GHT_0032> rdfs:label "Groundwater"@en .
+<http://purl.org/gold/habitat#GHT_0033> rdfs:label "Gut"@en .
+<http://purl.org/gold/habitat#GHT_0034> rdfs:label "Gut of the body louse"@en .
+<http://purl.org/gold/habitat#GHT_0035> rdfs:label "Host"@en .
+<http://purl.org/gold/habitat#GHT_0036> rdfs:label "Hot spring"@en .
+<http://purl.org/gold/habitat#GHT_0037> rdfs:label "Human airways"@en .
+<http://purl.org/gold/habitat#GHT_0038> rdfs:label "Human fecal"@en .
+<http://purl.org/gold/habitat#GHT_0039> rdfs:label "Human intestinal microflora"@en .
+<http://purl.org/gold/habitat#GHT_0040> rdfs:label "Human nasopharyngeal microflora"@en .
+<http://purl.org/gold/habitat#GHT_0041> rdfs:label "Human oral microflora"@en .
+<http://purl.org/gold/habitat#GHT_0042> rdfs:label "Human skin"@en .
+<http://purl.org/gold/habitat#GHT_0043> rdfs:label "Human stomach"@en .
+<http://purl.org/gold/habitat#GHT_0044> rdfs:label "Human vaginal microflora"@en .
+<http://purl.org/gold/habitat#GHT_0045> rdfs:label "Hydrothermal vent"@en .
+<http://purl.org/gold/habitat#GHT_0046> rdfs:label "Insect endosymbiont"@en .
+<http://purl.org/gold/habitat#GHT_0047> rdfs:label "Insect gut microflora"@en .
+<http://purl.org/gold/habitat#GHT_0048> rdfs:label "Intestinal microflora"@en .
+<http://purl.org/gold/habitat#GHT_0049> rdfs:label "Intestinal tract"@en .
+<http://purl.org/gold/habitat#GHT_0050> rdfs:label "Lymph nodes"@en .
+<http://purl.org/gold/habitat#GHT_0051> rdfs:label "Macrophage"@en .
+<http://purl.org/gold/habitat#GHT_0052> rdfs:label "Mammalian intestinal microflora"@en .
+<http://purl.org/gold/habitat#GHT_0053> rdfs:label "Marine"@en .
+<http://purl.org/gold/habitat#GHT_0054> rdfs:label "Milk"@en .
+<http://purl.org/gold/habitat#GHT_0055> rdfs:label "Mosquito"@en .
+<http://purl.org/gold/habitat#GHT_0056> rdfs:label "Mouth microflora"@en .
+<http://purl.org/gold/habitat#GHT_0057> rdfs:label "Mud"@en .
+<http://purl.org/gold/habitat#GHT_0058> rdfs:label "Nasopharyngeal microflora"@en .
+<http://purl.org/gold/habitat#GHT_0059> rdfs:label "Nematode endosymbiont"@en .
+<http://purl.org/gold/habitat#GHT_0060> rdfs:label "Nematode gut"@en .
+<http://purl.org/gold/habitat#GHT_0061> rdfs:label "Nematode symbiont"@en .
+<http://purl.org/gold/habitat#GHT_0063> rdfs:label "Obligate endophyte"@en .
+<http://purl.org/gold/habitat#GHT_0064> rdfs:label "Oil fields"@en .
+<http://purl.org/gold/habitat#GHT_0065> rdfs:label "Oral microflora"@en .
+<http://purl.org/gold/habitat#GHT_0066> rdfs:label "Permafrost sediment"@en .
+<http://purl.org/gold/habitat#GHT_0067> rdfs:label "Pharyngeal mucosa"@en .
+<http://purl.org/gold/habitat#GHT_0068> rdfs:label "Plant root"@en .
+<http://purl.org/gold/habitat#GHT_0069> rdfs:label "Plant surface"@en .
+<http://purl.org/gold/habitat#GHT_0070> rdfs:label "Plant symbiont"@en .
+<http://purl.org/gold/habitat#GHT_0071> rdfs:label "Plants"@en .
+<http://purl.org/gold/habitat#GHT_0072> rdfs:label "Ponds"@en .
+<http://purl.org/gold/habitat#GHT_0073> rdfs:label "Respiratory tract"@en .
+<http://purl.org/gold/habitat#GHT_0074> rdfs:label "Rhizosphere"@en .
+<http://purl.org/gold/habitat#GHT_0075> rdfs:label "Rhizosphere-colonizing"@en .
+<http://purl.org/gold/habitat#GHT_0076> rdfs:label "Rice paddies"@en .
+<http://purl.org/gold/habitat#GHT_0077> rdfs:label "Rice roots"@en .
+<http://purl.org/gold/habitat#GHT_0078> rdfs:label "Root nodule"@en .
+<http://purl.org/gold/habitat#GHT_0079> rdfs:label "Rumen"@en .
+<http://purl.org/gold/habitat#GHT_0080> rdfs:label "Salinewater"@en .
+<http://purl.org/gold/habitat#GHT_0081> rdfs:label "Salt marsh"@en .
+<http://purl.org/gold/habitat#GHT_0082> rdfs:label "Sand"@en .
+<http://purl.org/gold/habitat#GHT_0083> rdfs:label "Sea water"@en .
+<http://purl.org/gold/habitat#GHT_0084> rdfs:label "Sediment"@en .
+<http://purl.org/gold/habitat#GHT_0085> rdfs:label "Self-heated organic materials"@en .
+<http://purl.org/gold/habitat#GHT_0086> rdfs:label "Sewage plant"@en .
+<http://purl.org/gold/habitat#GHT_0087> rdfs:label "Skin microflora"@en .
+<http://purl.org/gold/habitat#GHT_0088> rdfs:label "Sludge"@en .
+<http://purl.org/gold/habitat#GHT_0090> rdfs:label "Soil"@en .
+<http://purl.org/gold/habitat#GHT_0091> rdfs:label "Solar saltern"@en .
+<http://purl.org/gold/habitat#GHT_0092> rdfs:label "Solfataric field"@en .
+<http://purl.org/gold/habitat#GHT_0094> rdfs:label "Sulfur spring"@en .
+<http://purl.org/gold/habitat#GHT_0095> rdfs:label "Surface water"@en .
+<http://purl.org/gold/habitat#GHT_0096> rdfs:label "Swine upper respiratory tract"@en .
+<http://purl.org/gold/habitat#GHT_0097> rdfs:label "Termite gut"@en .
+<http://purl.org/gold/habitat#GHT_0098> rdfs:label "Terrestrial"@en .
+<http://purl.org/gold/habitat#GHT_0099> rdfs:label "Urogenital tract"@en .
+<http://purl.org/gold/habitat#GHT_0100> rdfs:label "Vagina microflora"@en .
+<http://purl.org/gold/habitat#GHT_0101> rdfs:label "Wastewater"@en .
+<http://purl.org/gold/habitat#GHT_0102> rdfs:label "Wastewater treatment plant"@en .
+<http://purl.org/gold/habitat#GHT_0103> rdfs:label "Wine"@en .
+<http://purl.org/gold/habitat#GHT_0104> rdfs:label "Wood"@en .
+<http://purl.org/obo/owlapi/envo#ENVO_00000033> skos:closeMatch <http://purl.org/gold/habitat#GHT_0072> .
+<http://purl.org/obo/owlapi/envo#ENVO_00000051> skos:closeMatch <http://purl.org/gold/habitat#GHT_0036> .
+<http://purl.org/obo/owlapi/envo#ENVO_00000054> skos:closeMatch <http://purl.org/gold/habitat#GHT_0081> .
+<http://purl.org/obo/owlapi/envo#ENVO_00000126> skos:closeMatch <http://purl.org/gold/habitat#GHT_0094> .
+<http://purl.org/obo/owlapi/envo#ENVO_00000134> skos:broadMatch <http://purl.org/gold/habitat#GHT_0066> .
+<http://purl.org/obo/owlapi/envo#ENVO_00000210> skos:broadMatch <http://purl.org/gold/habitat#GHT_0019> .
+<http://purl.org/obo/owlapi/envo#ENVO_00000215> skos:closeMatch <http://purl.org/gold/habitat#GHT_0045> .
+<http://purl.org/obo/owlapi/envo#ENVO_00000217> skos:closeMatch <http://purl.org/gold/habitat#GHT_0092> .
+<http://purl.org/obo/owlapi/envo#ENVO_00000532> skos:closeMatch <http://purl.org/gold/habitat#GHT_0091> .
+<http://purl.org/obo/owlapi/envo#ENVO_00001997> skos:closeMatch <http://purl.org/gold/habitat#GHT_0002> .
+<http://purl.org/obo/owlapi/envo#ENVO_00001997> skos:narrowMatch <http://purl.org/gold/habitat#GHT_0001> .
+<http://purl.org/obo/owlapi/envo#ENVO_00001998> skos:closeMatch <http://purl.org/gold/habitat#GHT_0090> .
+<http://purl.org/obo/owlapi/envo#ENVO_00002001> skos:closeMatch <http://purl.org/gold/habitat#GHT_0101> .
+<http://purl.org/obo/owlapi/envo#ENVO_00002002> skos:closeMatch <http://purl.org/gold/habitat#GHT_0026> .
+<http://purl.org/obo/owlapi/envo#ENVO_00002005> skos:closeMatch <http://purl.org/gold/habitat#GHT_0003> .
+<http://purl.org/obo/owlapi/envo#ENVO_00002007> skos:closeMatch <http://purl.org/gold/habitat#GHT_0084> .
+<http://purl.org/obo/owlapi/envo#ENVO_00002009> skos:closeMatch <http://purl.org/gold/habitat#GHT_0098> .
+<http://purl.org/obo/owlapi/envo#ENVO_00002010> skos:closeMatch <http://purl.org/gold/habitat#GHT_0080> .
+<http://purl.org/obo/owlapi/envo#ENVO_00002011> skos:closeMatch <http://purl.org/gold/habitat#GHT_0028> .
+<http://purl.org/obo/owlapi/envo#ENVO_00002032> skos:broadMatch <http://purl.org/gold/habitat#GHT_0035> .
+<http://purl.org/obo/owlapi/envo#ENVO_00002034> skos:closeMatch <http://purl.org/gold/habitat#GHT_0009> .
+<http://purl.org/obo/owlapi/envo#ENVO_00002040> skos:closeMatch <http://purl.org/gold/habitat#GHT_0104> .
+<http://purl.org/obo/owlapi/envo#ENVO_00002041> skos:closeMatch <http://purl.org/gold/habitat#GHT_0032> .
+<http://purl.org/obo/owlapi/envo#ENVO_00002042> skos:closeMatch <http://purl.org/gold/habitat#GHT_0095> .
+<http://purl.org/obo/owlapi/envo#ENVO_00002043> skos:closeMatch <http://purl.org/gold/habitat#GHT_0102> .
+<http://purl.org/obo/owlapi/envo#ENVO_00002044> skos:closeMatch <http://purl.org/gold/habitat#GHT_0088> .
+<http://purl.org/obo/owlapi/envo#ENVO_00002117> skos:closeMatch <http://purl.org/gold/habitat#GHT_0016> .
+<http://purl.org/obo/owlapi/envo#ENVO_00002149> skos:closeMatch <http://purl.org/gold/habitat#GHT_0083> .
+<http://purl.org/obo/owlapi/envo#ENVO_00002165> skos:broadMatch <http://purl.org/gold/habitat#GHT_0027> .
+<http://purl.org/obo/owlapi/envo#ENVO_00002194> skos:broadMatch <http://purl.org/gold/habitat#GHT_0064> .
+<http://purl.org/obo/owlapi/envo#ENVO_00002207> skos:narrowMatch <http://purl.org/gold/habitat#GHT_0085> .
+<http://purl.org/obo/owlapi/envo#ENVO_00003000> skos:broadMatch <http://purl.org/gold/habitat#GHT_0006> .
+<http://purl.org/obo/owlapi/envo#ENVO_00003043> skos:closeMatch <http://purl.org/gold/habitat#GHT_0086> .
+<http://purl.org/obo/owlapi/envo#ENVO_00003862> skos:closeMatch <http://purl.org/gold/habitat#GHT_0018> .
+<http://purl.org/obo/owlapi/envo#ENVO_00003877> skos:narrowMatch <http://purl.org/gold/habitat#GHT_0029> .
+<http://purl.org/obo/owlapi/envo#ENVO_00005801> skos:broadMatch <http://purl.org/gold/habitat#GHT_0075> .
+<http://purl.org/obo/owlapi/envo#ENVO_00005801> skos:closeMatch <http://purl.org/gold/habitat#GHT_0074> .
+<http://purl.org/obo/owlapi/envo#ENVO_00006776> skos:broadMatch <http://purl.org/gold/habitat#GHT_0004> .
+<http://purl.org/obo/owlapi/envo#ENVO_00006776> skos:broadMatch <http://purl.org/gold/habitat#GHT_0005> .
+<http://purl.org/obo/owlapi/envo#ENVO_00006776> skos:broadMatch <http://purl.org/gold/habitat#GHT_0010> .
+<http://purl.org/obo/owlapi/envo#ENVO_00006776> skos:broadMatch <http://purl.org/gold/habitat#GHT_0014> .
+<http://purl.org/obo/owlapi/envo#ENVO_00006776> skos:broadMatch <http://purl.org/gold/habitat#GHT_0015> .
+<http://purl.org/obo/owlapi/envo#ENVO_00006776> skos:broadMatch <http://purl.org/gold/habitat#GHT_0024> .
+<http://purl.org/obo/owlapi/envo#ENVO_00006776> skos:broadMatch <http://purl.org/gold/habitat#GHT_0025> .
+<http://purl.org/obo/owlapi/envo#ENVO_00006776> skos:broadMatch <http://purl.org/gold/habitat#GHT_0030> .
+<http://purl.org/obo/owlapi/envo#ENVO_00006776> skos:broadMatch <http://purl.org/gold/habitat#GHT_0033> .
+<http://purl.org/obo/owlapi/envo#ENVO_00006776> skos:broadMatch <http://purl.org/gold/habitat#GHT_0034> .
+<http://purl.org/obo/owlapi/envo#ENVO_00006776> skos:broadMatch <http://purl.org/gold/habitat#GHT_0048> .
+<http://purl.org/obo/owlapi/envo#ENVO_00006776> skos:broadMatch <http://purl.org/gold/habitat#GHT_0049> .
+<http://purl.org/obo/owlapi/envo#ENVO_00006776> skos:broadMatch <http://purl.org/gold/habitat#GHT_0050> .
+<http://purl.org/obo/owlapi/envo#ENVO_00006776> skos:broadMatch <http://purl.org/gold/habitat#GHT_0051> .
+<http://purl.org/obo/owlapi/envo#ENVO_00006776> skos:broadMatch <http://purl.org/gold/habitat#GHT_0052> .
+<http://purl.org/obo/owlapi/envo#ENVO_00006776> skos:broadMatch <http://purl.org/gold/habitat#GHT_0056> .
+<http://purl.org/obo/owlapi/envo#ENVO_00006776> skos:broadMatch <http://purl.org/gold/habitat#GHT_0058> .
+<http://purl.org/obo/owlapi/envo#ENVO_00006776> skos:broadMatch <http://purl.org/gold/habitat#GHT_0059> .
+<http://purl.org/obo/owlapi/envo#ENVO_00006776> skos:broadMatch <http://purl.org/gold/habitat#GHT_0060> .
+<http://purl.org/obo/owlapi/envo#ENVO_00006776> skos:broadMatch <http://purl.org/gold/habitat#GHT_0061> .
+<http://purl.org/obo/owlapi/envo#ENVO_00006776> skos:broadMatch <http://purl.org/gold/habitat#GHT_0065> .
+<http://purl.org/obo/owlapi/envo#ENVO_00006776> skos:broadMatch <http://purl.org/gold/habitat#GHT_0067> .
+<http://purl.org/obo/owlapi/envo#ENVO_00006776> skos:broadMatch <http://purl.org/gold/habitat#GHT_0073> .
+<http://purl.org/obo/owlapi/envo#ENVO_00006776> skos:broadMatch <http://purl.org/gold/habitat#GHT_0079> .
+<http://purl.org/obo/owlapi/envo#ENVO_00006776> skos:broadMatch <http://purl.org/gold/habitat#GHT_0096> .
+<http://purl.org/obo/owlapi/envo#ENVO_00006776> skos:broadMatch <http://purl.org/gold/habitat#GHT_0099> .
+<http://purl.org/obo/owlapi/envo#ENVO_00006776> skos:broadMatch <http://purl.org/gold/habitat#GHT_0100> .
+<http://purl.org/obo/owlapi/envo#ENVO_00009001> skos:broadMatch <http://purl.org/gold/habitat#GHT_0021> .
+<http://purl.org/obo/owlapi/envo#ENVO_00009001> skos:broadMatch <http://purl.org/gold/habitat#GHT_0022> .
+<http://purl.org/obo/owlapi/envo#ENVO_00009001> skos:broadMatch <http://purl.org/gold/habitat#GHT_0023> .
+<http://purl.org/obo/owlapi/envo#ENVO_00009001> skos:broadMatch <http://purl.org/gold/habitat#GHT_0063> .
+<http://purl.org/obo/owlapi/envo#ENVO_00009001> skos:broadMatch <http://purl.org/gold/habitat#GHT_0068> .
+<http://purl.org/obo/owlapi/envo#ENVO_00009001> skos:broadMatch <http://purl.org/gold/habitat#GHT_0069> .
+<http://purl.org/obo/owlapi/envo#ENVO_00009001> skos:broadMatch <http://purl.org/gold/habitat#GHT_0070> .
+<http://purl.org/obo/owlapi/envo#ENVO_00009001> skos:broadMatch <http://purl.org/gold/habitat#GHT_0076> .
+<http://purl.org/obo/owlapi/envo#ENVO_00009001> skos:broadMatch <http://purl.org/gold/habitat#GHT_0077> .
+<http://purl.org/obo/owlapi/envo#ENVO_00009001> skos:closeMatch <http://purl.org/gold/habitat#GHT_0071> .
+<http://purl.org/obo/owlapi/envo#ENVO_00009002> skos:broadMatch <http://purl.org/gold/habitat#GHT_0012> .
+<http://purl.org/obo/owlapi/envo#ENVO_00009003> skos:broadMatch <http://purl.org/gold/habitat#GHT_0031> .
+<http://purl.org/obo/owlapi/envo#ENVO_00009003> skos:broadMatch <http://purl.org/gold/habitat#GHT_0037> .
+<http://purl.org/obo/owlapi/envo#ENVO_00009003> skos:broadMatch <http://purl.org/gold/habitat#GHT_0038> .
+<http://purl.org/obo/owlapi/envo#ENVO_00009003> skos:broadMatch <http://purl.org/gold/habitat#GHT_0039> .
+<http://purl.org/obo/owlapi/envo#ENVO_00009003> skos:broadMatch <http://purl.org/gold/habitat#GHT_0040> .
+<http://purl.org/obo/owlapi/envo#ENVO_00009003> skos:broadMatch <http://purl.org/gold/habitat#GHT_0041> .
+<http://purl.org/obo/owlapi/envo#ENVO_00009003> skos:broadMatch <http://purl.org/gold/habitat#GHT_0042> .
+<http://purl.org/obo/owlapi/envo#ENVO_00009003> skos:broadMatch <http://purl.org/gold/habitat#GHT_0043> .
+<http://purl.org/obo/owlapi/envo#ENVO_00009003> skos:broadMatch <http://purl.org/gold/habitat#GHT_0044> .
+<http://purl.org/obo/owlapi/envo#ENVO_00009003> skos:broadMatch <http://purl.org/gold/habitat#GHT_0087> .
+<http://purl.org/obo/owlapi/envo#ENVO_00009004> skos:broadMatch <http://purl.org/gold/habitat#GHT_0046> .
+<http://purl.org/obo/owlapi/envo#ENVO_00009004> skos:broadMatch <http://purl.org/gold/habitat#GHT_0047> .
+<http://purl.org/obo/owlapi/envo#ENVO_00009004> skos:broadMatch <http://purl.org/gold/habitat#GHT_0055> .
+<http://purl.org/obo/owlapi/envo#ENVO_00009004> skos:broadMatch <http://purl.org/gold/habitat#GHT_0097> .
+<http://purl.org/obo/owlapi/envo#ENVO_0010129> skos:closeMatch <http://purl.org/gold/habitat#GHT_0054> .
+<http://purl.org/obo/owlapi/envo#ENVO_01000001> skos:closeMatch <http://purl.org/gold/habitat#GHT_0057> .
+<http://purl.org/obo/owlapi/envo#ENVO_01000014> skos:closeMatch <http://purl.org/gold/habitat#GHT_0103> .
+<http://purl.org/obo/owlapi/envo#ENVO_01000015> skos:closeMatch <http://purl.org/gold/habitat#GHT_0008> .
+<http://purl.org/obo/owlapi/envo#ENVO_01000017> skos:closeMatch <http://purl.org/gold/habitat#GHT_0082> .
+<http://purl.org/obo/owlapi/envo#ENVO_01000031> skos:broadMatch <http://purl.org/gold/habitat#GHT_0053> .
+<http://purl.org/obo/owlapi/envo#ENVO_01000171> skos:narrowMatch <http://purl.org/gold/habitat#GHT_0078> .
+<http://purl.org/obo/owlapi/envo#ENVO_02000020> skos:closeMatch <http://purl.org/gold/habitat#GHT_0011> .

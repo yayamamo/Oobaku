@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0001">
+    <rdf:label xml:lang="en">Acid mine</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0002">
+    <rdf:label xml:lang="en">Acid mine drainage</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0003">
+    <rdf:label xml:lang="en">Air</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0004">
+    <rdf:label xml:lang="en">Animal feces</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0005">
+    <rdf:label xml:lang="en">Animal intestinal microflora</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0006">
+    <rdf:label xml:lang="en">Antarctic</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0008">
+    <rdf:label xml:lang="en">Beer</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0009">
+    <rdf:label xml:lang="en">Biofilm</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0010">
+    <rdf:label xml:lang="en">Birds intestinal microflora</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0011">
+    <rdf:label xml:lang="en">Blood</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0012">
+    <rdf:label xml:lang="en">Bovine rumen</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0014">
+    <rdf:label xml:lang="en">Colon</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0015">
+    <rdf:label xml:lang="en">Cow rumen</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0016">
+    <rdf:label xml:lang="en">Creosote-contaminated soil</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0018">
+    <rdf:label xml:lang="en">Dairy isolate</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0019">
+    <rdf:label xml:lang="en">Deep sea</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0021">
+    <rdf:label xml:lang="en">Ectomycorrhizal</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0022">
+    <rdf:label xml:lang="en">Endophyte</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0023">
+    <rdf:label xml:lang="en">Endosymbiont</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0024">
+    <rdf:label xml:lang="en">Feces</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0025">
+    <rdf:label xml:lang="en">Fish</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0026">
+    <rdf:label xml:lang="en">Food</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0027">
+    <rdf:label xml:lang="en">Fresh meat</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0028">
+    <rdf:label xml:lang="en">Fresh water</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0029">
+    <rdf:label xml:lang="en">Fruits</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0030">
+    <rdf:label xml:lang="en">Gastrointestinal tract</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0031">
+    <rdf:label xml:lang="en">Gingival crevices</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0032">
+    <rdf:label xml:lang="en">Groundwater</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0033">
+    <rdf:label xml:lang="en">Gut</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0034">
+    <rdf:label xml:lang="en">Gut of the body louse</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0035">
+    <rdf:label xml:lang="en">Host</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0036">
+    <rdf:label xml:lang="en">Hot spring</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0037">
+    <rdf:label xml:lang="en">Human airways</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0038">
+    <rdf:label xml:lang="en">Human fecal</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0039">
+    <rdf:label xml:lang="en">Human intestinal microflora</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0040">
+    <rdf:label xml:lang="en">Human nasopharyngeal microflora</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0041">
+    <rdf:label xml:lang="en">Human oral microflora</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0042">
+    <rdf:label xml:lang="en">Human skin</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0043">
+    <rdf:label xml:lang="en">Human stomach</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0044">
+    <rdf:label xml:lang="en">Human vaginal microflora</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0045">
+    <rdf:label xml:lang="en">Hydrothermal vent</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0046">
+    <rdf:label xml:lang="en">Insect endosymbiont</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0047">
+    <rdf:label xml:lang="en">Insect gut microflora</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0048">
+    <rdf:label xml:lang="en">Intestinal microflora</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0049">
+    <rdf:label xml:lang="en">Intestinal tract</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0050">
+    <rdf:label xml:lang="en">Lymph nodes</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0051">
+    <rdf:label xml:lang="en">Macrophage</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0052">
+    <rdf:label xml:lang="en">Mammalian intestinal microflora</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0053">
+    <rdf:label xml:lang="en">Marine</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0054">
+    <rdf:label xml:lang="en">Milk</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0055">
+    <rdf:label xml:lang="en">Mosquito</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0056">
+    <rdf:label xml:lang="en">Mouth microflora</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0057">
+    <rdf:label xml:lang="en">Mud</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0058">
+    <rdf:label xml:lang="en">Nasopharyngeal microflora</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0059">
+    <rdf:label xml:lang="en">Nematode endosymbiont</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0060">
+    <rdf:label xml:lang="en">Nematode gut</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0061">
+    <rdf:label xml:lang="en">Nematode symbiont</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0063">
+    <rdf:label xml:lang="en">Obligate endophyte</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0064">
+    <rdf:label xml:lang="en">Oil fields</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0065">
+    <rdf:label xml:lang="en">Oral microflora</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0066">
+    <rdf:label xml:lang="en">Permafrost sediment</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0067">
+    <rdf:label xml:lang="en">Pharyngeal mucosa</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0068">
+    <rdf:label xml:lang="en">Plant root</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0069">
+    <rdf:label xml:lang="en">Plant surface</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0070">
+    <rdf:label xml:lang="en">Plant symbiont</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0071">
+    <rdf:label xml:lang="en">Plants</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0072">
+    <rdf:label xml:lang="en">Ponds</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0073">
+    <rdf:label xml:lang="en">Respiratory tract</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0074">
+    <rdf:label xml:lang="en">Rhizosphere</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0075">
+    <rdf:label xml:lang="en">Rhizosphere-colonizing</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0076">
+    <rdf:label xml:lang="en">Rice paddies</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0077">
+    <rdf:label xml:lang="en">Rice roots</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0078">
+    <rdf:label xml:lang="en">Root nodule</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0079">
+    <rdf:label xml:lang="en">Rumen</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0080">
+    <rdf:label xml:lang="en">Salinewater</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0081">
+    <rdf:label xml:lang="en">Salt marsh</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0082">
+    <rdf:label xml:lang="en">Sand</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0083">
+    <rdf:label xml:lang="en">Sea water</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0084">
+    <rdf:label xml:lang="en">Sediment</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0085">
+    <rdf:label xml:lang="en">Self-heated organic materials</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0086">
+    <rdf:label xml:lang="en">Sewage plant</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0087">
+    <rdf:label xml:lang="en">Skin microflora</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0088">
+    <rdf:label xml:lang="en">Sludge</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0090">
+    <rdf:label xml:lang="en">Soil</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0091">
+    <rdf:label xml:lang="en">Solar saltern</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0092">
+    <rdf:label xml:lang="en">Solfataric field</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0094">
+    <rdf:label xml:lang="en">Sulfur spring</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0095">
+    <rdf:label xml:lang="en">Surface water</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0096">
+    <rdf:label xml:lang="en">Swine upper respiratory tract</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0097">
+    <rdf:label xml:lang="en">Termite gut</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0098">
+    <rdf:label xml:lang="en">Terrestrial</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0099">
+    <rdf:label xml:lang="en">Urogenital tract</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0100">
+    <rdf:label xml:lang="en">Vagina microflora</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0101">
+    <rdf:label xml:lang="en">Wastewater</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0102">
+    <rdf:label xml:lang="en">Wastewater treatment plant</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0103">
+    <rdf:label xml:lang="en">Wine</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/gold/habitat#GHT_0104">
+    <rdf:label xml:lang="en">Wood</rdf:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00000033">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0072"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00000051">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0036"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00000054">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0081"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00000126">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0094"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00000134">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0066"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00000210">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0019"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00000215">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0045"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00000217">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0092"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00000532">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0091"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00001997">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0002"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00001997">
+    <skos:narrowMatch rdf:resource="http://purl.org/gold/habitat#GHT_0001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00001998">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0090"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00002001">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0101"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00002002">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0026"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00002005">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0003"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00002007">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0084"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00002009">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0098"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00002010">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0080"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00002011">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0028"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00002032">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0035"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00002034">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0009"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00002040">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0104"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00002041">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0032"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00002042">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0095"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00002043">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0102"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00002044">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0088"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00002117">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0016"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00002149">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0083"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00002165">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0027"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00002194">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0064"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00002207">
+    <skos:narrowMatch rdf:resource="http://purl.org/gold/habitat#GHT_0085"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00003000">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0006"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00003043">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0086"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00003862">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0018"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00003877">
+    <skos:narrowMatch rdf:resource="http://purl.org/gold/habitat#GHT_0029"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00005801">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0075"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00005801">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0074"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00006776">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00006776">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0005"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00006776">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0010"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00006776">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0014"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00006776">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0015"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00006776">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0024"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00006776">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0025"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00006776">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0030"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00006776">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0033"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00006776">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0034"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00006776">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0048"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00006776">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0049"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00006776">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0050"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00006776">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0051"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00006776">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0052"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00006776">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0056"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00006776">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0058"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00006776">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0059"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00006776">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0060"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00006776">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0061"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00006776">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0065"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00006776">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0067"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00006776">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0073"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00006776">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0079"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00006776">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0096"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00006776">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0099"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00006776">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0100"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00009001">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0021"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00009001">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0022"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00009001">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0023"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00009001">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0063"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00009001">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0068"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00009001">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0069"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00009001">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0070"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00009001">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0076"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00009001">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0077"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00009001">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0071"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00009002">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0012"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00009003">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0031"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00009003">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0037"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00009003">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0038"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00009003">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0039"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00009003">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0040"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00009003">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0041"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00009003">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0042"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00009003">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0043"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00009003">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0044"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00009003">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0087"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00009004">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0046"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00009004">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0047"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00009004">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0055"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_00009004">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0097"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_0010129">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0054"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_01000001">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0057"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_01000014">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0103"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_01000015">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0008"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_01000017">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0082"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_01000031">
+    <skos:broadMatch rdf:resource="http://purl.org/gold/habitat#GHT_0053"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_01000171">
+    <skos:narrowMatch rdf:resource="http://purl.org/gold/habitat#GHT_0078"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/obo/owlapi/envo#ENVO_02000020">
+    <skos:closeMatch rdf:resource="http://purl.org/gold/habitat#GHT_0011"/>
+  </rdf:Description>
+</rdf:RDF>
